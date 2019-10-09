@@ -24,7 +24,7 @@ export default {
   name: 'app',
   data () {
     return {
-      msg: 'Welcome to Your Vue App'
+      msg: 'Welcome to Vue Project 2'
     }
   }
 }
